@@ -6,9 +6,7 @@
  - Social Media
  	  - [Twitter](https://twitter.com/Usman_186168) | [LinkedIn](https://www.linkedin.com/in/usman-abdulkareem/)
  - Blogs
-    - [Hashnode](https://https://usman186168.hashnode.dev/)
- - Mail
-    - [Gmail](uabdulkareem243@gmail.com)
+    - [Hashnode](https://usman186168.hashnode.dev/)
 - 😄 Pronouns: He/his.
 - ⚡ Fun fact: I love calculations, passionate about data-driven solutions, continuous learning and goal-driven initiatives.
 
